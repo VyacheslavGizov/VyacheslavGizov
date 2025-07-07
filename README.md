@@ -8,7 +8,7 @@
 
 ---
 
-## **Основные технологии**
+## **Основные технологии 🛠**
 
 - **Языки и фреймворки:** Python, FastAPI, Django, Flask
 - **Базы данных и ORM:** PostgreSQL, SQLAlchemy, Alembic
