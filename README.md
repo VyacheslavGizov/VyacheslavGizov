@@ -1,16 +1,22 @@
-## Hi there 👋
+# **Добро пожаловать в мой профиль! 👋**
 
-<!--
-**VyacheslavGizov/VyacheslavGizov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я — программист на Python с инженерным прошлым! 🚀 Занимаюсь созданием веб-приложений на Django и FastAPI. Есть опыт разработки телеграм-ботов и парсеров. Моя цель — постоянно расти в проектировании и разработке надежных систем. Особенно интересно, как обеспечить безопасность и конфиденциальность данных пользователей. Активно читаю документацию к используемым мной инструментам, тематические статьи и литературу. 📚
 
-Here are some ideas to get you started:
+🌍 **Локация:** Россия, г. Екатеринбург 
+🎓 **Образование:** НИ ТПУ, Электроника и автоматика физических установок (специалитет)
+💼 **Занятость:** Python-разработчик, открыт к полной занятости в офисе, удаленно или гибриде
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## **Основные технологии**
+
+- **Языки и фреймворки:** Python, FastAPI, Django, Flask
+- **Базы данных и ORM:** PostgreSQL, SQLAlchemy, Alembic
+- **Инструменты и системы:** Git, Docker, CI/CD
+
+---
+
+## **Контакты 📬**
+
+📧**Email:** vogizov@gmail.com 
+💬**Telegram:** @LikVasG
